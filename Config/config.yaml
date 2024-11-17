@@ -1,0 +1,7 @@
+#FirstSheet
+spreadsheet_name: Data\JuniorAyaHedyaPS_Roadmap.xlsx
+spreadsheet_name2: Data\JuniorAyaHedyaPS_Roadmap.xlsx
+sheet_name: "Lev 1"
+columngetFrom: "Problem Name" # employeid
+columnTarget : "1-2 line Comments
+About your approach"
